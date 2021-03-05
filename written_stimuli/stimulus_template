@@ -1,0 +1,6 @@
+Topic,y-_xis,y_range
+The price of fuel.,Fuel prices (pence per L).,85 - 140
+Cups of coffee per day.,Daily coffee consumption (cups per day),0 - 8
+Daily newspaper circualation.,Newspaper sales (in thousand copies per day),0 - 120
+Users logging into Facebook.,Number of users logged in (in millions),100 - 900
+Tables booked at restaurant,Number of table bookings (per night),0 - 40
